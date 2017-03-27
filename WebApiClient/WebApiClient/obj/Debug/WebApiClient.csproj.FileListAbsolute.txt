@@ -1,0 +1,10 @@
+D:\project\visual studio 2015\Projects\WebApiClient\WebApiClient\bin\Debug\WebApiClient.exe.config
+D:\project\visual studio 2015\Projects\WebApiClient\WebApiClient\bin\Debug\WebApiClient.exe
+D:\project\visual studio 2015\Projects\WebApiClient\WebApiClient\bin\Debug\WebApiClient.pdb
+D:\project\visual studio 2015\Projects\WebApiClient\WebApiClient\bin\Debug\Newtonsoft.Json.dll
+D:\project\visual studio 2015\Projects\WebApiClient\WebApiClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\project\visual studio 2015\Projects\WebApiClient\WebApiClient\bin\Debug\Newtonsoft.Json.xml
+D:\project\visual studio 2015\Projects\WebApiClient\WebApiClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\project\visual studio 2015\Projects\WebApiClient\WebApiClient\obj\Debug\WebApiClient.csprojResolveAssemblyReference.cache
+D:\project\visual studio 2015\Projects\WebApiClient\WebApiClient\obj\Debug\WebApiClient.exe
+D:\project\visual studio 2015\Projects\WebApiClient\WebApiClient\obj\Debug\WebApiClient.pdb
